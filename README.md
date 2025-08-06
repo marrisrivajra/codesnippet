@@ -1,4 +1,3 @@
-# codesnippet
 # Code Snippet Library
 ## 🐍 Python Snippets
 - [Loops in Python](loops.py)
